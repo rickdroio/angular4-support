@@ -22,3 +22,8 @@ npm i -g npm-check-updates
 ncu -a
 npm install
 ```
+
+** Build app for production  **
+```
+ng build --prod
+```
