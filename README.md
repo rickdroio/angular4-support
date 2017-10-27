@@ -23,7 +23,11 @@ ncu -a
 npm install
 ```
 
-** Build app for production  **
+**Build app for production**
 ```
 ng build --prod
 ```
+
+**Install Electron**
+npm install -g electron
+npm install electron --save-dev
