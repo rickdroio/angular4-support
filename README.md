@@ -29,5 +29,7 @@ ng build --prod
 ```
 
 **Install Electron**
+```
 npm install -g electron
 npm install electron --save-dev
+```
