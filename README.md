@@ -37,5 +37,9 @@ npm install electron --save-dev
 **Win Build Tools**
 ```
 npm install --global --production windows-build-tools
+```
 
+**Set Environment to 32BUTS (need to reDownload everything)**
+```
+npm set npm_config_arch ia32
 ```
