@@ -33,3 +33,9 @@ ng build --prod
 npm install -g electron
 npm install electron --save-dev
 ```
+
+**Win Build Tools**
+```
+npm install --global --production windows-build-tools
+
+```
