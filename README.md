@@ -43,3 +43,6 @@ npm install --global --production windows-build-tools
 ```
 npm set npm_config_arch ia32
 ```
+
+**Build Electron with another modules**
+https://electron.atom.io/docs/tutorial/using-native-node-modules/
