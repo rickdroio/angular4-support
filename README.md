@@ -34,6 +34,11 @@ npm install -g electron
 npm install electron --save-dev
 ```
 
+**Install SASS compiler**
+```
+npm install -g node-sass
+```
+
 **Win Build Tools**
 ```
 npm install --global --production windows-build-tools
